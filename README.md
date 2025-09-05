@@ -22,13 +22,21 @@ This assembly lets you check **access**, **clearance**, and **collisions** befor
 
 ## Screenshots
 
-| Description | Preview |
-|-------------|---------|
-| Stylus ball coincident-mated to measured face | ![Probe–face mate](images/01_probe_face_mate.png) |
-| Top view to confirm head clearance | ![Top view clearance](images/02_top_view_clearance.png) |
-| Global variables for head orientation | ![Equations](images/03_equations_angles.png) |
-| Probe rack simulation | ![Probe rack](images/04_probe_rack.png) |
-| Interference detection in action | ![Interference](images/05_interference_detection.png) |
+**Coincident mate between probe tip and inspection face**
+![Coincident Mate](PH10T/screenshots/Screenshot%202025-09-05%20065708.png)
+
+**Top view to check probe clearance**
+![Top View](PH10T/screenshots/Screenshot%202025-09-05%20065812.png)
+
+**Probe head orientation with variable angles**
+![Angles Applied](PH10T/screenshots/Screenshot%202025-09-05%20065918.png)
+
+**Exploded view showing probes and head at A=0°, B=0°**
+![Exploded View](PH10T/screenshots/Screenshot%202025-09-05%20071349.png)
+
+**Interference detection results**
+![Interference Detection](PH10T/screenshots/Screenshot%202025-09-05%20072559.png)
+
 
 
 
