@@ -30,7 +30,7 @@ This assembly lets you check **access**, **clearance**, and **collisions** befor
 | Probe rack simulation | ![Probe rack](images/04_probe_rack.png) |
 | Interference detection in action | ![Interference](images/05_interference_detection.png) |
 
-*(Upload your screenshots into an `images/` folder and update paths if needed.)*
+
 
 ---
 
