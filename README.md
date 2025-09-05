@@ -43,10 +43,9 @@ This assembly lets you check **access**, **clearance**, and **collisions** befor
    Suppress/unsuppress or replace:
    - `Probe 1 Dia 6.SLDPRT`
    - `Probe 2 Dia 1.SLDPRT`
-   - `Probe 2 Dia 0.7.SLDPRT`
    - `Probe 3 Dia 2.SLDPRT`
    - `Probe 4 Dia 4.SLDPRT`  
-   Plus `TP20 Module.SLDPRT`, `Probe Head Housing.SLDPRT`, `Probe Shaft.SLDPRT`.
+  
 
 3. **Insert part to inspect**  
    Use included samples (`Inspection Sample 1/2.SLDPRT`) or your own.
