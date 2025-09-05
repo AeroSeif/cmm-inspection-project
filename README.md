@@ -1,4 +1,4 @@
-# Parametric CMM (CMM4) – Offline Programming Helper
+# Parametric CMM (PH10T) – Offline Programming Helper
 
 A SOLIDWORKS® parametric **CMM head + probe library** with two sample parts to help de-risk Aberlink® offline programs.  
 Aberlink’s offline view only shows a stylus shaft + ball; it doesn’t visualize the head, module, or adjacent probes.  
@@ -65,3 +65,23 @@ This assembly lets you check **access**, **clearance**, and **collisions** befor
 ---
 
 ## Folder Structure
+
+## Notes
+
+- This is a **geometric clearance check**. Dynamics and probe triggering not included.  
+- Use **Git LFS** for `.SLDPRT` and `.SLDASM` files.  
+- Add a `.gitignore` for `*.temp`, `*.bak`, `~$*`, etc.
+
+---
+
+## License
+
+Released under the **MIT License**.  
+Forks, adaptations, and improvements are welcome.
+
+---
+
+## Credits
+
+Modeling, probe library, and example parts by **Seif Adly**.  
+Not affiliated with Renishaw®, Aberlink®, or SOLIDWORKS®. Trademarks belong to their respective owners.
