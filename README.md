@@ -73,11 +73,9 @@ This assembly lets you check **access**, **clearance**, and **collisions** befor
 
 ## Folder Structure
 
-## Notes
+## Note
+This is a **geometric clearance check**. Dynamics and probe triggering not included.  
 
-- This is a **geometric clearance check**. Dynamics and probe triggering not included.  
-- Use **Git LFS** for `.SLDPRT` and `.SLDASM` files.  
-- Add a `.gitignore` for `*.temp`, `*.bak`, `~$*`, etc.
 
 ---
 
