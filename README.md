@@ -75,32 +75,33 @@ This assembly lets you check **access**, **clearance**, and **collisions** befor
 ## Folder Structure
 PH10T/
 ├─ CAD-Models/
-│ ├─ CMM Arm Full Assembly.SLDASM # Main assembly
-│ │
-│ ├─ Inner Housing.SLDPRT # Assembly component
-│ ├─ Mid-Section.SLDPRT # Assembly component
-│ ├─ Probe Head Housing.SLDPRT # Assembly component
-│ ├─ Probe Shaft.SLDPRT # Assembly component
-│ ├─ Rotating Cylinder Z-Axis.SLDPRT # Assembly component
-│ ├─ TP20 Module.SLDPRT # Assembly component
-│ │
-│ ├─ Inspection Sample 1.SLDPRT # Sample inspection part
-│ ├─ Inspection Sample 2.SLDPRT # Sample inspection part
-│ │
-│ ├─ Probe 1 Dia 6.SLDPRT # Interchangeable probe
-│ ├─ Probe 2 Dia 1.SLDPRT # Interchangeable probe
-│ ├─ Probe 3 Dia 2.SLDPRT # Interchangeable probe
-│ ├─ Probe 4 Dia 4.SLDPRT # Interchangeable probe
 │
-├─ screenshots/ # Documentation images
-│ ├─ Screenshot 2025-09-05 065708.png # Coincident mate
-│ ├─ Screenshot 2025-09-05 065812.png # Top view
-│ ├─ Screenshot 2025-09-05 065918.png # Angles applied
-│ ├─ Screenshot 2025-09-05 071349.png # Exploded view
-│ └─ Screenshot 2025-09-05 072559.png # Interference detection
+├─ CMM Arm Full Assembly.SLDASM        — Main assembly
+├─ Inner Housing.SLDPRT                — Assembly component
+├─ Mid-Section.SLDPRT                  — Assembly component
+├─ Probe Head Housing.SLDPRT           — Assembly component
+├─ Probe Shaft.SLDPRT                  — Assembly component
+├─ Rotating Cylinder Z-Axis.SLDPRT     — Assembly component
+├─ TP20 Module.SLDPRT                  — Assembly component
+│
+├─ Inspection Sample 1.SLDPRT          — Sample inspection part
+├─ Inspection Sample 2.SLDPRT          — Sample inspection part
+│
+├─ Probe 1 Dia 6.SLDPRT                — Interchangeable probe
+├─ Probe 2 Dia 1.SLDPRT                — Interchangeable probe
+├─ Probe 3 Dia 2.SLDPRT                — Interchangeable probe
+├─ Probe 4 Dia 4.SLDPRT                — Interchangeable probe
+│
+├─ screenshots/                        — Documentation images
+│  ├─ Screenshot 2025-09-05 065708.png — Coincident mate
+│  ├─ Screenshot 2025-09-05 065812.png — Top view
+│  ├─ Screenshot 2025-09-05 065918.png — Angles applied (A/B)
+│  ├─ Screenshot 2025-09-05 071349.png — Exploded view & probe rack
+│  └─ Screenshot 2025-09-05 072559.png — Interference detection
 │
 ├─ LICENSE
 └─ README.md
+
 
 
 
