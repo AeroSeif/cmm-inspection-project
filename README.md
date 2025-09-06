@@ -72,6 +72,25 @@ This assembly lets you check **access**, **clearance**, and **collisions** befor
 ---
 
 ## Folder Structure
+PH10T/
+├─ CAD-Models/
+│ ├─ CMM Arm Full Assembly.SLDASM # Main assembly
+│ │
+│ ├─ Inner Housing.SLDPRT # Assembly component
+│ ├─ Mid-Section.SLDPRT # Assembly component
+│ ├─ Probe Head Housing.SLDPRT # Assembly component
+│ ├─ Probe Shaft.SLDPRT # Assembly component
+│ ├─ Rotating Cylinder Z-Axis.SLDPRT # Assembly component
+│ ├─ TP20 Module.SLDPRT # Assembly component
+│ │
+│ ├─ Inspection Sample 1.SLDPRT # Sample inspection part
+│ ├─ Inspection Sample 2.SLDPRT # Sample inspection part
+│ │
+│ ├─ Probe 1 Dia 6.SLDPRT # Interchangeable probe
+│ ├─ Probe 2 Dia 1.SLDPRT # Interchangeable probe
+│ ├─ Probe 3 Dia 2.SLDPRT # Interchangeable probe
+│ ├─ Probe 4 Dia 4.SLDPRT # Interchangeable probe
+
 
 ## Note
 This is a **geometric clearance check**. Dynamics and probe triggering not included.  
