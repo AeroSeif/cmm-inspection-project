@@ -56,17 +56,18 @@ This assembly lets you check **access**, **clearance**, and **collisions** befor
   
 
 3. **Insert part to inspect**  
-   Use included samples (`Inspection Sample 1/2.SLDPRT`) or your own.
+   1) Use included samples (`Inspection Sample 1/2.SLDPRT`) or your own.
+   2) Make the Primary Reference plane of the component coincident with the Assembly's Top plane. 
 
-4. **Align probe**  
+5. **Align probe**  
    Mate stylus ball to the target face/edge.
 
-5. **Set head orientation**  
+6. **Set head orientation**  
    In Equations:
    - `AngleA` = tilt (0–105°)  
    - `AngleB` = spin (0–360°)
 
-6. **Check interference**  
+7. **Check interference**  
    Use `Evaluate → Interference Detection` to detect head/part collisions.
 
 ---
