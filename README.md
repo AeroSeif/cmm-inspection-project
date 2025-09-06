@@ -90,6 +90,17 @@ PH10T/
 │ ├─ Probe 2 Dia 1.SLDPRT # Interchangeable probe
 │ ├─ Probe 3 Dia 2.SLDPRT # Interchangeable probe
 │ ├─ Probe 4 Dia 4.SLDPRT # Interchangeable probe
+│
+├─ screenshots/ # Documentation images
+│ ├─ Screenshot 2025-09-05 065708.png # Coincident mate
+│ ├─ Screenshot 2025-09-05 065812.png # Top view
+│ ├─ Screenshot 2025-09-05 065918.png # Angles applied
+│ ├─ Screenshot 2025-09-05 071349.png # Exploded view
+│ └─ Screenshot 2025-09-05 072559.png # Interference detection
+│
+├─ LICENSE
+└─ README.md
+
 
 
 ## Note
