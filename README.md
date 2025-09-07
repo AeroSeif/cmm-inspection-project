@@ -72,12 +72,11 @@ This assembly lets you check **access**, **clearance**, and **collisions** befor
 
 ---
 
-## Folder Structure
+## CAD Files Structure
 
 | Path / File                          | Description                |
 |--------------------------------------|----------------------------|
 | **PH10T/**                           | Root project folder        |
-| ├── CAD-Models/                      | All SolidWorks CAD models  |
 | ├── CMM Arm Full Assembly.SLDASM     | Main assembly              |
 | ├── Inner Housing.SLDPRT             | Assembly component         |
 | ├── Mid-Section.SLDPRT               | Assembly component         |
@@ -91,16 +90,7 @@ This assembly lets you check **access**, **clearance**, and **collisions** befor
 | ├── Probe 2 Dia 1.SLDPRT             | Interchangeable probe      |
 | ├── Probe 3 Dia 2.SLDPRT             | Interchangeable probe      |
 | ├── Probe 4 Dia 4.SLDPRT             | Interchangeable probe      |
-|                                      |                            |
-| **screenshots/**                     | Documentation images       |
-| ├── Screenshot 2025-09-05 065708.png | Coincident mate            |
-| ├── Screenshot 2025-09-05 065812.png | Top view                   |
-| ├── Screenshot 2025-09-05 065918.png | Angles applied (A/B)       |
-| ├── Screenshot 2025-09-05 071349.png | Exploded view & probe rack |
-| └── Screenshot 2025-09-05 072559.png | Interference detection     |
-|                                      |                            |
-| LICENSE                              | License file               |
-| README.md                            | Documentation              |
+
 
 
 
