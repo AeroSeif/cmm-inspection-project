@@ -20,22 +20,23 @@ This assembly lets you check **access**, **clearance**, and **collisions** befor
 
 ---
 
+
 ## Screenshots
 
-**Coincident mate between probe tip and inspection face**
-![Coincident Mate](PH10T/screenshots/Screenshot%202025-09-05%20065708.png)
+**Coincident mate between probe tip and inspection face**  
+![Coincident Mate](PH10T/screenshots/Coincident%20mate.png)
 
-**Top view to check probe clearance**
-![Top View](PH10T/screenshots/Screenshot%202025-09-05%20065812.png)
+**Top view to check probe clearance**  
+![Top View](PH10T/screenshots/Top-View.png)
 
-**Probe head orientation with variable angles**
-![Angles Applied](PH10T/screenshots/Screenshot%202025-09-05%20065918.png)
+**Probe head orientation with variable angles**  
+![Angles Applied](PH10T/screenshots/Angles%20Applied%20A%26B.png)
 
-**Exploded view showing probes and head at A=0°, B=0°**
-![Exploded View](PH10T/screenshots/Screenshot%202025-09-05%20071349.png)
+**Exploded view showing probes and head at A=0°, B=0°**  
+![Exploded View](PH10T/screenshots/Exploded%20View%20%26%20Probe%20Rack.png)
 
-**Interference detection results**
-![Interference Detection](PH10T/screenshots/Screenshot%202025-09-05%20072559.png)
+**Interference detection results**  
+![Interference Detection](PH10T/screenshots/Interference%20detection.png)
 
 
 
