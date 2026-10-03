@@ -4,7 +4,7 @@ A SOLIDWORKS® parametric **CMM head + probe library** with two sample parts to 
 Aberlink’s offline view only shows a stylus shaft + ball; it doesn’t visualize the head, module, or adjacent probes.  
 This assembly lets you check **access**, **clearance**, and **collisions** before you go to the machine.
 
-> **Goal**: Get it right the first time when bringing an offline program online — fewer surprises, fewer collisions, faster prove-out.
+> **Goal**: Get it right the first time when bringing an offline program online -> fewer surprises, fewer collisions, faster prove-out.
 
 ![PH10T](PH10T/screenshots/PH10T.png)
 
