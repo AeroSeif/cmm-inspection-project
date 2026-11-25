@@ -109,6 +109,5 @@ Forks, adaptations, and improvements are welcome.
 ---
 
 ## Credits
-
-Modeling, probe library, and example parts by **Seif Adly**.  
-Not affiliated with Renishaw®, Aberlink®, or SOLIDWORKS®. Trademarks belong to their respective owners.
+PH10T Head Modelled by myself, Seif Adly. 
+Not affiliated with Renishaw, Aberlink, or SOLIDWORKS. Trademarks belong to their respective owners.
