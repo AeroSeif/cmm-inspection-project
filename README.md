@@ -1,6 +1,6 @@
 # Parametric CMM (PH10T) - CMM Offline Programming 
 
-A SOLIDWORKS parametric **CMM head + probe library** with two sample parts to help de-risk Aberlink® offline programs.  
+A SOLIDWORKS parametric **CMM head + probe library** with two sample parts to help de-risk Aberlink offline programs.  
 Aberlink’s offline view only shows a stylus shaft + ball; it doesn’t visualize the head, module, or adjacent probes.  
 This assembly lets you check **access**, **clearance**, and **collisions** before you go to the machine.
 
